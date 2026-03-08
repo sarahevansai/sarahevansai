@@ -19,7 +19,7 @@ I write about AI visibility on [HackerNoon](https://hackernoon.com/u/sarahevans)
 
 | Product | Description |
 |---------|-------------|
-| [**The AI-Ready Content Writer's Toolkit**](https://stan.store/asksarahevans/p/the-ai-ready-content-writers-toolkit) | Write content AI actually cites. 43-page guide, custom GPT, worksheets, tool stack. **$47** |
+| [**The AI-Ready Content Writer's Toolkit**](https://stan.store/asksarahevans/p/the-aiready-content-writers-toolkit) | Write content AI actually cites. 43-page guide, custom GPT, worksheets, tool stack. **$47** |
 
 ## 🛠️ Open Source
 
