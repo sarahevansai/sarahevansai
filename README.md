@@ -15,6 +15,12 @@ I coined *The Before Layer* — the AI-generated answer people see before they c
 
 I write about AI visibility on [HackerNoon](https://hackernoon.com/u/sarahevans), host [The Visibility Equation](https://linkedin.com/in/prsarahevans) live show, and publish [PR@ctical](https://www.linkedin.com/newsletters/pr-ctical-linkedin-edition-7389663104709779456/) every Monday — the newsletter for comms leaders navigating AI.
 
+## 📦 Products
+
+| Product | Description |
+|---------|-------------|
+| [**The AI-Ready Content Writer's Toolkit**](https://stan.store/asksarahevans/p/the-ai-ready-content-writers-toolkit) | Write content AI actually cites. 43-page guide, custom GPT, worksheets, tool stack. **$47** |
+
 ## 🛠️ Open Source
 
 | Repo | What it does |
